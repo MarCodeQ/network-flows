@@ -1,8 +1,8 @@
 #include <iostream>
 
-#include "utils/GraphUtils.h"
-#include "algorithms/MaximumFlowAlgorithms.h"
-#include "algorithms/MinimumCostFlowAlgorithms.h"
+#include "GraphUtils.h"
+#include "MaximumFlowAlgorithms.h"
+#include "MinimumCostFlowAlgorithms.h"
 
 int main(int argc, char **argv)
 {

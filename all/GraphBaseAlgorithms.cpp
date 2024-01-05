@@ -1,7 +1,7 @@
 #include "GraphBaseAlgorithms.h"
 
-#include "consts/Consts.h"
-#include "utils/GraphUtils.h"
+#include "Consts.h"
+#include "GraphUtils.h"
 
 #include <set>
 #include <queue>

@@ -1,8 +1,8 @@
 #ifndef MINIMUM_COST_FLOWS_PROBLEM_MINIMUMCOSTFLOWALGORITHMS_H
 #define MINIMUM_COST_FLOWS_PROBLEM_MINIMUMCOSTFLOWALGORITHMS_H
 
-#include "dto/flowResult/FlowResult.h"
-#include "data_structures/graph/Graph.h"
+#include "FlowResult.h"
+#include "Graph.h"
 
 #include <memory>
 
